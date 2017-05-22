@@ -1,0 +1,15 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="Bush (1).png" x="0" y="303" width="133" height="65"/>
+	<SubTexture name="Bush (2).png" x="0" y="370" width="133" height="65"/>
+	<SubTexture name="Bush (3).png" x="210" y="382" width="73" height="47"/>
+	<SubTexture name="Bush (4).png" x="135" y="382" width="73" height="46"/>
+	<SubTexture name="Crate.png" x="135" y="303" width="77" height="77"/>
+	<SubTexture name="Mushroom_1.png" x="278" y="303" width="49" height="41"/>
+	<SubTexture name="Mushroom_2.png" x="275" y="431" width="50" height="41"/>
+	<SubTexture name="Sign_1.png" x="210" y="431" width="63" height="65"/>
+	<SubTexture name="Sign_2.png" x="214" y="303" width="62" height="64"/>
+	<SubTexture name="Stone.png" x="118" y="437" width="90" height="54"/>
+	<SubTexture name="Tree_1.png" x="0" y="437" width="116" height="44"/>
+	<SubTexture name="Tree_2.png" x="0" y="0" width="282" height="301"/>
+	<SubTexture name="Tree_3.png" x="284" y="0" width="282" height="275"/>
+</TextureAtlas>

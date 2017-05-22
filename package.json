@@ -1,0 +1,15 @@
+{
+  "name" : "GAME_AGAIN",
+  "version" : "0.1.0",
+  "main" : "myapp.js",
+  "scripts" : {
+    "start" : "node app.js"
+  },
+  "engines": {
+    "node": "6.10.3"
+ },
+"dependencies": {
+  "express": "^4.15.3",
+  "socket.io": "^2.0.1",
+  }
+}
