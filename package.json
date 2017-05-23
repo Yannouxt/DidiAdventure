@@ -12,7 +12,7 @@
     "npm": "*"
   },
   "scripts": {
-    "start": "node app.js",
+    "start": "node server.js",
   },
   "repository": {
     "type": "git",
